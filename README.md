@@ -10,6 +10,10 @@
 
 3. `source activate PYTN` or `conda activate PYTN`
 
+4. `cd nbs` and then `jupyter notebook`
+
+5. Navigate to https://localhost:8888
+
 
 
 `source deactivate`

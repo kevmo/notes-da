@@ -6,11 +6,13 @@
 
 (Installing Anaconda means you have also [installed Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
-2. `conda create --name PYTN python=3`
+2. `conda create --name PYTN python=3.6.4`
 
 3. `source activate PYTN` or `conda activate PYTN`
 
 4. `cd nbs` and then `jupyter notebook`
+
+NEED A CONDA INSTALL STEP
 
 5. Navigate to https://localhost:8888
 

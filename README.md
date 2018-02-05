@@ -20,12 +20,48 @@
 `conda remove --name PYTN --all`
 
 
-## Resources
+##  Resources For Further Perusal
 
-1. [Getting Started With Anaconda](https://conda.io/docs/user-guide/getting-started.html)
 
-## Reading
+### Developer Toolkit
 
-1. [Why is Python growing so quickly?](https://stackoverflow.blog/2017/09/14/python-growing-quickly/))
+[Getting Started With Anaconda](https://conda.io/docs/user-guide/getting-started.html)
+
+Jupyter Notebook
+
+
+### Python Libraries
+
+[NumPy Quickstart](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+
+matplotlib
+
+Python
+
+[WordCloud.generate_from_frequencies](https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html#wordcloud.WordCloud.generate_from_frequencies)
+
+[nltk](http://www.nltk.org) + [nltk book](http://www.nltk.org/book)
+
+
+### Awesome Books
+
+Data Science From Scratch
+
+Python For Data Analysis, 2nd Edition
+
+The Manga Guide To Linear Algebra 
+
+### Awesome Articles and Blogs
+
+[Split-Apply-Combine](https://www.jstatsoft.org/htaccess.php?volume=40&type=i&issue=01&paper=true), Hadley Wickham,
+ _Journal of Statistical Software_, April 2011
+
+
+[Why is Python growing so quickly?](https://stackoverflow.blog/2017/09/14/python-growing-quickly/))
+
+
+[Tag clouds](https://en.wikipedia.org/wiki/Tag_cloud), 
+
+
 
 

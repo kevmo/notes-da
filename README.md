@@ -51,17 +51,19 @@ Python For Data Analysis, 2nd Edition
 
 The Manga Guide To Linear Algebra 
 
-### Awesome Articles and Blogs
+### Articles and Blogs
 
 [Split-Apply-Combine](https://www.jstatsoft.org/htaccess.php?volume=40&type=i&issue=01&paper=true), Hadley Wickham,
  _Journal of Statistical Software_, April 2011
 
 
-[Why is Python growing so quickly?](https://stackoverflow.blog/2017/09/14/python-growing-quickly/))
+[Why is Python growing so quickly?](https://stackoverflow.blog/2017/09/14/python-growing-quickly/)
 
 
-[Tag clouds](https://en.wikipedia.org/wiki/Tag_cloud), 
+[Tag clouds](https://en.wikipedia.org/wiki/Tag_cloud)
 
 
 
+### Community 
 
+[Reddit.com/r/datascience](https://www.reddit.com/r/datascience/)
